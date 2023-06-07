@@ -1,10 +1,10 @@
 
-### Hola, <h1> I'm Ankush Bhagat 👋 </h1>
+### Hola, <h1> Myself, Ankush Bhagat 👋 </h1>
 
-- 👦 I am a passionate Web Developer & Competitive Programmer.
-- 🔭 My main Techstack: C++/C, Java, HTML, CSS, JS, React, REST, Context API's, ElectronJS, JQuery, Bootstrap, MySQL
-- 🌱 I’m currently learning Backend development as well as exploring Quantum Computing
-- 💬 Skills: Analytical & Problem Solving, Ability to Collaborate, Fluent English, Strong Academics, Coomunication & Presentational
+- 👦 I am a Full Stack AWS Web Developer & Competitive Programmer.
+- 🔭 My main Techstack: C++, Python, JavaScript, Full Stack, AWS, MySQL, Git
+- 🌱 I’m currently exploring Data Science and Neural Networks
+- 💬 Skills: Analytical & Problem Solving, Ability to Collaborate, Fluent English, Vivid Learner, Communication & Presentational
 - 🧑‍💻 All my projects can be found in my repositories section.
 - 📫 How to reach me: 
       Linkedin: https://www.linkedin.com/in/ankush-bhagat/
